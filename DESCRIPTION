@@ -1,0 +1,11 @@
+Package: ADMortalidad3
+Type: Shiny
+Title: App Mortalidad
+Version: 0.0.1
+
+Imports:
+    shiny,
+    dplyr,
+    ggplot2,
+    plotly,
+    readr
